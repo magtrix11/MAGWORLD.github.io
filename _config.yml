@@ -25,48 +25,19 @@ use_math:
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 
-# Pagination settings
-pagination:
-  enabled: true
-  debug: false
-  per_page: 12
-  permalink: '/page/:num/'
-  title: ':title'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-autopages:
-  enabled: true
-  categories:
-    enabled: false
-  collections:
-    enabled: false
-  tags:
-    layouts: 
-      - 'tag.html'
-    title: 'MAG.WORLD'
-    permalink: '/tag/:tag'
-    slugify:
-      mode: raw
-      cased: true
-
 # Build settings
 markdown: kramdown
-remote_theme: Barber
+remote_theme: minima
 plugins:
-  - jekyll-paginate-v2
-  - jekyll-sitemap
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
-exclude:
-  - node_modules
-  - .DS_Store
-  - barber.jpg
-  - Gemfile
-  - Gemfile.lock
-  - gulpfile.js
-  - package.json
-  - README.md
-  - vendor
+ - jekyll-feed
+ - jekyll-seo-tag
+
+minima:
+  skin: solarized-dark
+  
+header_pages:
+  - about.md
+  - portfolio.md
+  - this_could_be_interesting.md
+  - what_do_i_know.md
+  
