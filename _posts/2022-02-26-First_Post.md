@@ -8,7 +8,7 @@ So many personal questions to so many strangers always put me on edge. When I gr
 BUUUUUT Thats not who I am anymore. I am working on stepping out of my anxiety. Social anxiey is a pain really but
 #### *DAY BY DAY BRICK BY BRICK, WE BUILD.
 
-Anyways,,,,,,, I'M Antonia, BUT I like to be called
+Anyways,,,,,,, I'm Antonia, BUT I like to be called
 ## MAG
 
 I am an imaginationalist and I believe in being exceptional. I am a multidsiciplinary artist. But I only started seeing myself as an artist through using technology.
