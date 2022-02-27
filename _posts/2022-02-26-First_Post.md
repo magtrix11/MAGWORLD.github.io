@@ -1,4 +1,4 @@
-# Welcome to the MAGtrix 
+# Welcome to the MAGTRIX
 ### This is my world, you're just living in it
 
 
