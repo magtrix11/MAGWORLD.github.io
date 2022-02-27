@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: MAG.WORLD 
+title: THE MAGTRIX 
 description: A window into my mind
 github_username: magtrix11
 
@@ -28,7 +28,10 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jekyll-seo-tag
-
+  
+minima:
+  skin: dark
+  
 titles_from_headings:
   enabled:     true
   strip_title: true
