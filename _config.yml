@@ -52,7 +52,7 @@ autopages:
 
 # Build settings
 markdown: kramdown
-remote_theme: The Barber Theme
+remote_theme: Barber
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
