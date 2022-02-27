@@ -27,7 +27,7 @@ google_analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: minima
+theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
