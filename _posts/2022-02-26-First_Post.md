@@ -19,3 +19,21 @@ Anyways,,,,,,, I'm Antonia, BUT I like to be called
 I have been creating art since I have memory and recollection. I have loved color and the absence of color, form, space, since I could see. I am a lover of pattern, and repetion. I love ranndomization and impulsivity. I create on instinct.
 
 But I only started seeing myself as an artist through using technology.
+
+An avid gamer growing up, technology and coding have always been interesting to me. However, I lacked the confidence to do anything really. It wasn't until COVID-19 started.
+2020.
+The year my life changed. 
+
+I truly realized that the one thing I feel most comfortable doing is creating and learning. I came into sync with my inner child and my purpose. 
+I dont' expect to know everything, but I know the road I'm going on, and I'm prepared and growing every day.
+
+Part of my process of growing and becoming a better artist everyday is getting organized, hence this blog.
+
+Here to host my ideas, my thoughts, my dreams, my fears, my work, everything and anything.
+
+I'm bringing unchained exceptionalism. 
+
+Again... 
+#### *DAY BY DAY, BRICK BY BRICK, WE BUILD.
+
+This is the MAGTRIX.
