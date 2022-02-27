@@ -43,12 +43,3 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
   
-minima:
-  skin: solarized-dark
-  
-header_pages:
-  - about.md
-  - portfolio.md
-  - this_could_be_interesting.md
-  - what_do_i_know.md
-  
