@@ -6,11 +6,6 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-# Site/SEO settings
-email: magtrix333@gmail.com
-baseurl: ""
-permalink: /:year/:month/:day/:title/
-
 title: MAG.WORLD 
 description: A window into my mind
 github_username: magtrix11
@@ -25,13 +20,29 @@ use_math:
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 
-# Build settings
-markdown: kramdown
+# Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-octicons
+  - jekyll-github-metadata
+  -jekyll-seo-tag
 
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
+  
 minima:
   skin: solarized-dark
   
