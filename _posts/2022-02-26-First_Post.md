@@ -11,7 +11,7 @@ BUUUUUT Thats not who I am anymore. I am working on stepping out of my anxiety. 
 Anyways,,,,,,, I'm Antonia, BUT I like to be called
 ## MAG
 
-**I am an imaginationalist and I believe in being exceptional. I am a multidsiciplinary artist. I am a multidimensional being with depths like the ocean.**
+**I am an imaginationalist and I believe in being exceptional. I am a multidisiciplinary artist. I am a multidimensional being with depths like the ocean.**
 
 "You are not a drop in the ocean, you are the ocean in a drop." -RUMI
 
