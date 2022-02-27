@@ -11,4 +11,11 @@ BUUUUUT Thats not who I am anymore. I am working on stepping out of my anxiety. 
 Anyways,,,,,,, I'm Antonia, BUT I like to be called
 ## MAG
 
-I am an imaginationalist and I believe in being exceptional. I am a multidsiciplinary artist. But I only started seeing myself as an artist through using technology.
+**I am an imaginationalist and I believe in being exceptional. I am a multidsiciplinary artist. I am a multidimensional being with depths like the ocean.
+
+"You are not a drop in the ocean, you are the ocean in a drop." -RUMI
+
+
+I have been creating art since I have memory and recollection. I have loved color and the absence of color, form, space, since I could see. I am a lover of pattern, and repetion. I love ranndomization and impulsivity. I create on instinct.
+
+But I only started seeing myself as an artist through using technology.
