@@ -6,6 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
+# Site/SEO settings
+email: magtrix333@gmail.com
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+
 title: MAG.WORLD 
 description: A window into my mind
 github_username: magtrix11
@@ -20,25 +25,47 @@ use_math:
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 
-# Everything below here can be ignored, unless you want to change the theme entirely
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-octicons
-  - jekyll-github-metadata
-  - jekyll-remote-theme 
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 12
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts: 
+      - 'tag.html'
+    title: 'The Barber Theme'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
 
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
-
-highlighter: rouge
+# Build settings
 markdown: kramdown
-kramdown:
-  math_engine: katex
-  input: GFM
-  auto_ids: true
-  hard_wrap: false
-  syntax_highlighter: rouge
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
+  - vendor
