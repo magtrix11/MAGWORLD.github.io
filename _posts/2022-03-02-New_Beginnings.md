@@ -28,7 +28,7 @@ I think about it now and it makes me a grateful.
 
 `Let us dissect.`
 
-1. I hated since the first time they called me Mari, yet I lacked a courage to say anything agaimst it. 
+1. I hated since the first time they called me Mari, yet I lacked a courage to say anything against it. 
 
 I get called Ti, MAG or Antonia now. I don't settle for people mispronouncing my name either. It is my pride, my heritage, my power.
 
@@ -46,7 +46,7 @@ I have so many experiences that have led me to this moment. To this moment where
 
 One of the biggest factors have been NFTs. Non-Fungible Tokens. I first joined in Febuary of 2021. Best experience ever so far. 
 
-Nfts have allowed me as an artist to really blossom and break my limits every day. They have also allowed me to make friendships with some amazing people and create a community far beyond the reach of my city. 
+NFTs have allowed me as an artist to really blossom and break my limits every day. They have also allowed me to make friendships with some amazing people and create a community far beyond the reach of my city. 
 
 This Pisces moon makes me really realize this. I am just at the beginning and what a great beginning it is. A year ago I didnt know what I was doing, now here I am sitting writing in my own blog about how I am starting this lifechanging jouney as an artist, curator, collector, and most importantly as a beautiful being with endless capacities to change and explore.
 
