@@ -10,7 +10,7 @@ If you think about it, every beginning is an end and all ends are beginnings.
 ### WHY you should embrace the new moon energy?
 
 New Moons present us with new opportunities, new beginnings and paths.
-This new moon in Pisces is one of the luckiest times of the year. Falling in Pisces, the energy of the water sign will stimulate the collective unconscious. It is the final zodiac on the wheel before the start of *ARIES SZN*. This new moonsignifies endings, resolutions, and the evolutions of the human spirit. This period can be used to reflect on what has been built and experienced over the year. 
+This new moon in Pisces is one of the luckiest times of the year. Falling in Pisces, the energy of the water sign will stimulate the collective unconscious. It is the final zodiac on the wheel before the start of *ARIES SZN*. This new moon signifies endings, resolutions, and the evolutions of the human spirit. This period can be used to reflect on what has been built and experienced over the year. 
 
 I'm a firm believer in energy and the stars. We are made up of the same matter that is the universe, if the moon can affect the oceans then sure as hell the planets can affect our 75% water bodies.
 
@@ -44,7 +44,7 @@ I do yoga everyday now. It's saved my life.
 
 I have so many experiences that have led me to this moment. To this moment where I am dedicated to my art, my life and my health.
 
-One of the biggest factors have been NFTs. Non-Fungible Tokens. I first joined in Febuary of 2021. Best expeerience ever so far. 
+One of the biggest factors have been NFTs. Non-Fungible Tokens. I first joined in Febuary of 2021. Best experience ever so far. 
 
 Nfts have allowed me as an artist to really blossom and break my limits every day. They have also allowed me to make friendships with some amazing people and create a community far beyond the reach of my city. 
 
