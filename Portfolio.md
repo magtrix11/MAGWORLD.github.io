@@ -9,7 +9,7 @@ In this is my photography, my painting, my generative art, my NFTs, my music and
 $ETH$ (Ethereum)
 >This is my [FOUNDATION](https://foundation.app/@magtrix "MAGTRIX"). The Crème de la Crème.. My beautiul photgraphy collection lies here, its growing here too.
 >
->This is my [OpenSea (BROKEN SEA)](https://opensea.io/magtrix1 "MAGRIX"). Here lies the first collection I minted on the Blockchain. It has sentimental value. And wll be worth a lot in a few years.  🚀
+>This is my [OpenSea (BROKEN SEA)](https://opensea.io/magtrix1 "MAGRIX"). Here lies the first collection I minted on the Blockchain. It has sentimental value. And will be worth a lot in a few years.  🚀
 
 
 $XTZ$ (Tezos)
